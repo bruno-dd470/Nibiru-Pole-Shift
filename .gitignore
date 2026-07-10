@@ -1,0 +1,70 @@
+# ============================================
+# Trash directories (anywhere)
+# ============================================
+trash/
+**/trash/
+
+# ============================================
+# Raw images directories
+# ============================================
+figures_raw/
+raw_figures/
+
+# ============================================
+# Image formats (globally ignored)
+# ============================================
+*.svg
+*.gif
+*.tiff
+*.bmp
+*.webp
+*.heic
+*.psd
+*.ai
+*.eps
+*.ico
+
+# ============================================
+# Image formats (tracked - commented out)
+# ============================================
+# *.png
+# *.jpg
+# *.jpeg
+
+# ============================================
+# Exceptions: force-track images in essential_readings/figures/
+# ============================================
+!essential_readings/figures/*.svg
+!essential_readings/figures/*.gif
+!essential_readings/figures/*.tiff
+
+# ============================================
+# LaTeX compilation files
+# ============================================
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# ============================================
+# LaTeX templates (local - optional)
+# ============================================
+# *.tex
+# !essential_readings/template_*.tex
+
+# ============================================
+# System files
+# ============================================
+.DS_Store
+Thumbs.db
+*.tmp
+*~
+*.swp
+
+# ============================================
+# PDFs (optionnel - à commenter si vous voulez suivre les PDF)
+# ============================================
+# *.pdf
