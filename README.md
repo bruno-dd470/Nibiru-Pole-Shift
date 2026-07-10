@@ -25,8 +25,8 @@ The author would dearly wish that the perspective developed in this text were no
 
 | Document | English | French |
 |----------|---------|--------|
-| **Main Document** | [📄 PDF](essential_readings/mahdi_en.pdf) · [📝 MD](essential_readings/mahdi_en.md)
-| **ZetaTalk Safe Places** | [📄 PDF](essential_readings/zetatalk%20safe%20places%202011%20en.pdf) | [📄 PDF](essential_readings/zetatalk%20safe%20places%202011%20fr.pdf) |
+| **Main Document** | [![PDF](https://img.shields.io/badge/PDF-mahdi_en-ff0000?style=flat-square&logo=adobeacrobatreader)](essential_readings/mahdi_en.pdf) · [![Markdown](https://img.shields.io/badge/MD-mahdi_en-181717?style=flat-square&logo=markdown)](essential_readings/mahdi_en.md) |
+| **ZetaTalk Safe Places** | [![PDF](https://img.shields.io/badge/PDF-Safe_Places_EN-ff0000?style=flat-square&logo=adobeacrobatreader)](essential_readings/zetatalk%20safe%20places%202011%20en.pdf) | [![PDF](https://img.shields.io/badge/PDF-Safe_Places_FR-ff0000?style=flat-square&logo=adobeacrobatreader)](essential_readings/zetatalk%20safe%20places%202011%20fr.pdf) |
 
 ---
 
