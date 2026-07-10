@@ -1,25 +1,32 @@
+# Nibiru & Pole Shift
 
-⚠️ Content Warning: This document contains apocalyptic scenarios and references to real-world political violence that may induce anxiety or distress.
+## 📖 Description
 
-![Speculative Fiction](https://img.shields.io/badge/Genre-Speculative_Geopolitics-orange)
+> **A speculative geopolitical and eschatological hypothesis exploring the convergence of political engineering, theological prophecy, and geophysical theories around a February 2027 timeline.**
 
-# The Engineering of the Apocalypse: Tehran, Washington, Paris, Rome
+This repository documents a working hypothesis that weaves together:
 
-## 📄 Overview
+- **Geopolitical analysis** — The synchronized strategies of global powers (Iran, US, Vatican, France) preparing their populations for a systemic shock.
+- **Theological frameworks** — Twelver Shia occultation (Ghabya), Christian Parousia, Jewish Cheveli Mashiach, and the Third Secret of Fatima.
+- **Geophysical observations** — Red dust deposits, Schumann resonance decline, magnetic anomalies, and purported Nibiru sightings.
+- **ZetaTalk corpus** — Compiled excerpts (1995–2004) detailing pole shift mechanics, survival strategies, and post-cataclysm geography.
 
-This repository contains a working document titled:
+The core document, **"The Engineering of the Apocalypse: Tehran, Washington, Paris, Rome"**, examines how four centers of power may be coordinating their political, theological, and communication strategies around a single anticipated event — a geomagnetic pole shift allegedly scheduled for February 2027.
 
-> **"The Engineering of the Apocalypse: Tehran, Washington, Paris, Rome"**
+---
 
-The text explores a speculative hypothesis according to which global superpowers — the United States, Iran, the Vatican, and France — are **synchronizing their political, theological, and communication strategies** around a single anticipated event: a **geomagnetic pole shift**, allegedly scheduled for **February 2027**.
+## 💭 A Note from the Repository Maintainer
 
-The document weaves together:
+The author would dearly wish that the perspective developed in this text were nothing more than a bad dream. Yet objective signs — some documented in these pages, others observable in the shifting geopolitical landscape — suggest that this viewpoint may, unfortunately, correspond to a lived reality. In any case, the coming months will quickly determine the pertinence of this thesis.
 
-- **Theological frameworks** (Twelver Shiism, Christianity, Judaism, Fatima prophecies),
-- **Geophysical observations** (Schumann resonance decline, magnetic anomalies, red dust deposits),
-- **Political engineering** (suspension of elections, states of emergency, constitutional overrides),
-- **Controversial public statements** (Trump's "calm before the storm", Epstein emails),
-- **Extensive citations from the ZetaTalk corpus** (1995–2004), describing in detail the physical phenomena expected during a pole shift.
+---
+
+## 📄 Core Documents
+
+| Document | English | French |
+|----------|---------|--------|
+| **Main Document** | [📄 PDF](essential_readings/mahdi_en.pdf) · [📝 MD](essential_readings/mahdi_en.md)
+| **ZetaTalk Safe Places** | [📄 PDF](essential_readings/zetatalk%20safe%20places%202011%20en.pdf) | [📄 PDF](essential_readings/zetatalk%20safe%20places%202011%20fr.pdf) |
 
 ---
 
@@ -39,21 +46,52 @@ The document weaves together:
 
 ---
 
-# 📂 Repository Contents
+## 📂 Repository Structure
+
+```
+Nibiru-Pole-Shift/
+├── README.md                         # This file
+├── essential_readings/               # Core documents
+│   ├── mahdi_en.md                   # Main document (English Markdown)
+│   ├── mahdi_en.pdf                  # Main document (English PDF)
+│   ├── zetatalk safe places 2011 en.pdf
+│   ├── zetatalk safe places 2011 fr.pdf
+│   └── trash/                        # Archived drafts (ignored)
+├── books/                            # Reference works
+│   ├── Les Grands Bouleversements Terrestres -- Immanuel Velikovsky.pdf
+│   ├── Mondes en collision -- Immanuel Velikovsky.pdf
+│   ├── Zetatalk_ Direct Answers from the Zeta Reticuli People -- Nancy Lieder.pdf
+│   ├── Zetatalk_ Direct Answers from the Zeta Reticuli People -- Nancy Lieder.txt
+│   └── Столкновение миров -- Великовский Иммануил.fb2
+├── mp4/                              # Video documentation
+│   ├── 2 suns.mp4
+│   ├── Caracas red.mp4
+│   ├── Nancy Lieder Path of Nibiru Planet X.mp4
+│   ├── nibiru_chine.mp4
+│   ├── Nibiru USA.MP4
+│   ├── Norway Red Sun.mp4
+│   ├── The Last Weeks Tic Toc.mp4
+│   ├── Trump Calm before the Storm.MP4
+│   └── ...
+├── pictures/                         # Visual documentation
+│   ├── calendar.jpg
+│   ├── nibiru.jpg
+│   ├── nibiru & moons.jpg
+│   ├── previous pole shifts.jpeg
+│   └── ...
+
+```
+
+---
 
 ## 📚 Reference Works
 
-The following works are included as reference materials:
-
-| Author | Title | Language |
-|--------|-------|----------|
-| Immanuel Velikovsky | *Les Grands Bouleversements Terrestres* | French |
-| Immanuel Velikovsky | *Mondes en collision* | French |
-| Immanuel Velikovsky | *Столкновение миров* (Worlds in Collision) | Russian |
-| Nancy Lieder | *Zetatalk: Direct Answers from the Zeta Reticuli People* | English |
-| Zeta | *zetatalk safe places 2011 en* | English |
-| Zeta | *zetatalk safe places 2011 fr* | French |
-
+| Author | Title | Language | Format |
+|--------|-------|----------|--------|
+| Immanuel Velikovsky | *Les Grands Bouleversements Terrestres* | French | PDF |
+| Immanuel Velikovsky | *Mondes en collision* | French | PDF |
+| Immanuel Velikovsky | *Столкновение миров* (Worlds in Collision) | Russian | FB2 |
+| Nancy Lieder | *Zetatalk: Direct Answers from the Zeta Reticuli People* | English | PDF / TXT |
 
 ---
 
@@ -65,41 +103,34 @@ The `mp4/` directory contains video documentation of:
 - **Nibiru sightings**: Various purported observations from different locations
 - **Pole shift preparation**: Guidance videos from ZetaTalk
 - **Public figures**: Trump's "Calm before the Storm" statement
-- **The Last Weeks**: Countdown imagery
+- **Countdown imagery**: "The Last Weeks" montage
 
 ---
 
-## 🖼️ Image Collection
-
-The `pictures/` directory contains:
-
-- Astronomical imagery (Nibiru, sun, moons)
-- Documentary photographs (red dust, atmospheric phenomena)
-- Geographical diagrams (pole shifts, safe locations)
-- Calendar references
-
----
-
-## 🔗 External Links Mentioned
+## 🔗 External Links
 
 - [ZetaTalk Official Site](https://zetatalk.com)
 - [ZetaTalk Followers (Telegram)](https://web.telegram.org/k/#@ZetaTalk_Followers)
-- [ZetaTalk Followers in Russian (Telegram)](https://web.telegram.org/k/#@dai_vam_bog)
 - [Pole Shift Ning Community](https://poleshift.ning.com/)
 - [Anna's Archive – ZetaTalk Collection](https://annas-archive.gl/search?q=zetatalk)
-- [Anna's Archive – Books by Immanuel Velikovsky](https://annas-archive.gl/search?q=immanuel+velikovsky)
+
+---
+
+## 🏷️ Topics / Tags
+
+`pole-shift` `nibiru` `planet-x` `zetatalk` `eschatology` `geopolitics` `apocalypticism` `fatima` `trump` `khamenei` `mahdi` `vatican` `vatt` `velikovsky` `article16`
 
 ---
 
 ## ⚖️ Disclaimer
 
-**This document is provided for informational, archival, and analytical purposes.**
+**This repository is maintained for informational, archival, and analytical purposes only.**
 
 1. **Authorship & responsibility** — This document represents the author's own speculative hypothesis. It is offered as a **working thesis** to be tested against unfolding events. The author assumes full intellectual responsibility for the argument presented, while acknowledging that the claims made (particularly regarding geophysics, astronomy, and eschatology) are not supported by mainstream science and should be treated with critical scrutiny.
 
-2. **No scientific claim** — The geophysical, astronomical, and medical assertions made in this document (including but not limited to pole shift mechanics, Nibiru, red dust, and survival predictions) are **not supported by mainstream science**. They should not be interpreted as factual predictions or actionable advice.
+2. **No scientific claim** — The geophysical, astronomical, and eschatological assertions made in this document are **not supported by mainstream science**. They should not be interpreted as factual predictions or actionable advice.
 
-3. **No political statement** — References to political figures, governments, or legal mechanisms (e.g., Article 16, Zelensky precedent, Macron, Trump, Khamenei) are made **within the context of the document's internal narrative** and do not constitute political analysis, endorsement, or accusation.
+3. **No political statement** — References to political figures, governments, or legal mechanisms are made **within the context of the document's internal narrative** and do not constitute political analysis, endorsement, or accusation.
 
 4. **No call to action** — Nothing in this document should be construed as encouragement to engage in illegal activities, panic, civil disobedience, or emergency preparation beyond normal civic prudence.
 
@@ -109,22 +140,9 @@ The `pictures/` directory contains:
 
 ---
 
-## 📅 Timeline
-
-- **Last revision**: July 2026
-- **Event referenced**: February 2027
-
----
-
-## 🏷️ Keywords
-
-`Pole Shift` `Nibiru` `Planet X` `ZetaTalk` `Apocalypse` `Fatima` `Trump` `Khamenei` `Mahdi` `Parousia` `Ghabya` `Vatican` `VATT` `Article 16` `Macron` `Force Majeure` `Eschatology` `Geopolitics` `Psychological Engineering`
-
----
-
 ## 📜 License
 
-This document is shared under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
+**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**
 
 You are free to:
 - **Share** — copy and redistribute the material in any medium or format
@@ -133,8 +151,4 @@ You are free to:
 Under the following terms:
 - **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
 - **NonCommercial** — You may not use the material for commercial purposes.
-
----
-
-**Read responsibly. Think critically.**
 
