@@ -25,8 +25,9 @@ The author would dearly wish that the perspective developed in this text were no
 
 | Document | English | French |
 |----------|---------|--------|
-| **Main Document** | [![PDF](https://img.shields.io/badge/PDF-mahdi_en-ff0000?style=flat-square&logo=adobeacrobatreader)](essential_readings/mahdi_en.pdf) · [![Markdown](https://img.shields.io/badge/MD-mahdi_en-181717?style=flat-square&logo=markdown)](essential_readings/mahdi_en.md) |
-| **ZetaTalk Safe Places** | [![PDF](https://img.shields.io/badge/PDF-Safe_Places_EN-ff0000?style=flat-square&logo=adobeacrobatreader)](essential_readings/zetatalk%20safe%20places%202011%20en.pdf) | [![PDF](https://img.shields.io/badge/PDF-Safe_Places_FR-ff0000?style=flat-square&logo=adobeacrobatreader)](essential_readings/zetatalk%20safe%20places%202011%20fr.pdf) |
+| **Main Document** | [![PDF EN](https://img.shields.io/badge/PDF-EN-ff0000?style=flat-square&logo=adobeacrobatreader)](essential_readings/mahdi_en.pdf) · [![MD EN](https://img.shields.io/badge/MD-EN-181717?style=flat-square&logo=markdown)](essential_readings/mahdi_en.md) | [![PDF FR](https://img.shields.io/badge/PDF-FR-0055A4?style=flat-square&logo=adobeacrobatreader)](essential_readings/mahdi_fr.pdf) · [![MD FR](https://img.shields.io/badge/MD-FR-181717?style=flat-square&logo=markdown)](essential_readings/mahdi_fr.md) |
+| **Pole Shift Appendix** | [![MD EN](https://img.shields.io/badge/MD-EN-181717?style=flat-square&logo=markdown)](essential_readings/pole_shift_en.md) | [![MD FR](https://img.shields.io/badge/MD-FR-181717?style=flat-square&logo=markdown)](essential_readings/pole_shift_fr.md) |
+| **ZetaTalk Safe Places** | [![PDF EN](https://img.shields.io/badge/PDF-EN-ff0000?style=flat-square&logo=adobeacrobatreader)](essential_readings/zetatalk%20safe%20places%202011%20en.pdf) | [![PDF FR](https://img.shields.io/badge/PDF-FR-0055A4?style=flat-square&logo=adobeacrobatreader)](essential_readings/zetatalk%20safe%20places%202011%20fr.pdf) |
 
 ---
 
@@ -40,8 +41,9 @@ The author would dearly wish that the perspective developed in this text were no
 | **III. Washington – "The Storm"** | Trump's 2017 statement reinterpreted as literal cosmic weather forecasting. |
 | **IV. Rome – The Third Secret of Fatima & the Vatican Telescope** | Alleged suppression of the full secret; Vatican's VATT used to track Nibiru in real time. |
 | **V. Paris – The Force Majeure Trap** | French election moved to February 20, 2027; Article 16 invoked to suspend democracy. |
-| **VI. Psychological Engineering** | Preparing populations to believe without seeing; differentiated apocalyptic narratives. |
-| **VII. Conclusion** | Final rendezvous in February 2027; seven months remaining at time of writing. |
+| **VI. China - the silent architect of the great relocation** | 50 million empty homes to relocate southern population to the north |
+| **VII. Psychological Engineering** | Preparing populations; differentiated apocalyptic narratives. |
+| **Conclusion** | Final rendezvous in February 2027; seven months remaining at time of writing. |
 | **Appendix** | Compiled ZetaTalk excerpts (1995–2004) on pole shift mechanics, survival, and aftermath. |
 
 ---
@@ -54,6 +56,8 @@ Nibiru-Pole-Shift/
 ├── essential_readings/               # Core documents
 │   ├── mahdi_en.md                   # Main document (English Markdown)
 │   ├── mahdi_en.pdf                  # Main document (English PDF)
+│   ├── mahdi_fr.md                   # Main document (French Markdown)
+│   ├── mahdi_fr.pdf                  # Main document (French PDF)
 │   ├── zetatalk safe places 2011 en.pdf
 │   ├── zetatalk safe places 2011 fr.pdf
 │   └── trash/                        # Archived drafts (ignored)
