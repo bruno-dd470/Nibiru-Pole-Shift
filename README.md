@@ -26,7 +26,6 @@ The author would dearly wish that the perspective developed in this text were no
 | Document | English | French |
 |----------|---------|--------|
 | **Main Document** | [![PDF EN](https://img.shields.io/badge/PDF-EN-ff0000?style=flat-square&logo=adobeacrobatreader)](essential_readings/mahdi_en.pdf) · [![MD EN](https://img.shields.io/badge/MD-EN-181717?style=flat-square&logo=markdown)](essential_readings/mahdi_en.md) | [![PDF FR](https://img.shields.io/badge/PDF-FR-0055A4?style=flat-square&logo=adobeacrobatreader)](essential_readings/mahdi_fr.pdf) · [![MD FR](https://img.shields.io/badge/MD-FR-181717?style=flat-square&logo=markdown)](essential_readings/mahdi_fr.md) |
-| **Pole Shift Appendix** | [![MD EN](https://img.shields.io/badge/MD-EN-181717?style=flat-square&logo=markdown)](essential_readings/pole_shift_en.md) | [![MD FR](https://img.shields.io/badge/MD-FR-181717?style=flat-square&logo=markdown)](essential_readings/pole_shift_fr.md) |
 | **ZetaTalk Safe Places** | [![PDF EN](https://img.shields.io/badge/PDF-EN-ff0000?style=flat-square&logo=adobeacrobatreader)](essential_readings/zetatalk%20safe%20places%202011%20en.pdf) | [![PDF FR](https://img.shields.io/badge/PDF-FR-0055A4?style=flat-square&logo=adobeacrobatreader)](essential_readings/zetatalk%20safe%20places%202011%20fr.pdf) |
 
 ---
